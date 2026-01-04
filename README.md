@@ -46,7 +46,7 @@ I am a **Backend Developer** passionate about building scalable systems and expl
 
 ### 🤝 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/omer-karaman/" target="blank">
+  <a href="https://linkedin.com/in/omer-karaman/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
