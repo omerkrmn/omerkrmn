@@ -1,20 +1,19 @@
-# ## Hi there, I'm Ömer Karaman 👋
+### Hi there, I'm Ömer Karaman 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=omerkrmn&label=Profile%20views&color=0e75b6&style=flat" alt="Görüntülenme Sayısı" />
+  <img src="https://komarev.com/ghpvc/?username=omerkrmn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### 👨‍💻 Hakkımda
-Ben bir **Backend Developer'ım**. Yeni teknolojiler öğrenmeyi seviyorum.
-<!--
-- 🔭 Şu anda **[Proje Adı]** üzerinde çalışıyorum.
-- 🌱 Şu an **[Öğrendiğin Dil/Teknoloji]** konusuna odaklanmış durumdayım.
-- 💬 Bana **[Uzmanlık Alanın]** hakkında soru sorabilirsiniz.
-- 📫 Bana ulaşın: **[E-posta veya LinkedIn Linki]**
--->
+### 👨‍💻 About Me
+I am a **Backend Developer** passionate about building scalable systems and exploring new technologies. I specialize in the .NET ecosystem and modern web architectures.
+
+- 🚀 Currently working on high-performance backend solutions.
+- 💬 Ask me about **.NET Core, Web API, and Clean Architecture**.
+- 📫 Reach me via: [LinkedIn](https://linkedin.com/in/omer-karaman/)
+
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
@@ -36,14 +35,18 @@ Ben bir **Backend Developer'ım**. Yeni teknolojiler öğrenmeyi seviyorum.
 
 ---
 
-### 📊 İstatistiklerim
+### 📊 Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omerkrmn&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerkrmn&layout=compact&theme=tokyonight)
-
-### 🤝 Bağlantı Kuralım
 <p align="left">
-<a href="https://linkedin.com/in/[LinkedIn-Kullanıcı-Adın]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/[Twitter-Kullanıcı-Adın]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omerkrmn&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omerkrmn&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/omer-karaman/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
